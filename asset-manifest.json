@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/exchange-rate-site/static/css/main.e9995732.css",
-    "main.js": "/exchange-rate-site/static/js/main.187681fe.js",
-    "static/js/787.e392d0f4.chunk.js": "/exchange-rate-site/static/js/787.e392d0f4.chunk.js",
-    "static/media/logo.svg": "/exchange-rate-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/exchange-rate-site/index.html",
-    "main.e9995732.css.map": "/exchange-rate-site/static/css/main.e9995732.css.map",
-    "main.187681fe.js.map": "/exchange-rate-site/static/js/main.187681fe.js.map",
-    "787.e392d0f4.chunk.js.map": "/exchange-rate-site/static/js/787.e392d0f4.chunk.js.map"
+    "main.css": "/Melissa-Erion/exchange-rate-site.git/static/css/main.dc4d6ff2.css",
+    "main.js": "/Melissa-Erion/exchange-rate-site.git/static/js/main.bdae00a9.js",
+    "index.html": "/Melissa-Erion/exchange-rate-site.git/index.html",
+    "main.dc4d6ff2.css.map": "/Melissa-Erion/exchange-rate-site.git/static/css/main.dc4d6ff2.css.map",
+    "main.bdae00a9.js.map": "/Melissa-Erion/exchange-rate-site.git/static/js/main.bdae00a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9995732.css",
-    "static/js/main.187681fe.js"
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.bdae00a9.js"
   ]
 }
